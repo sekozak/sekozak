@@ -55,7 +55,7 @@ I am Second year student of Computer Science at the AGH University of Science an
 
 ## Socials 
 
-[<img src='https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png' alt='facebook' height='40'>](https://www.facebook.com/sebastian.kozak.180/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sekozak)  
+[<img src='https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg' title='facebook' height='40'>](https://www.facebook.com/sebastian.kozak.180/)[<img src='https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png' title='github' height='40'>](https://github.com/sekozak)  
 
 
 ## Some stats 📊
