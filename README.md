@@ -61,5 +61,5 @@ I am Second year student of Computer Science at the AGH University of Science an
 ## Some stats 📊
 
 <a href="#choose-pinned-repositories">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekozak&langs_count=7&title_color=fff&icon_color=000&bg_color=60,0b3866,07f49e&hide_border=true&text_color=111&border_radius=5&count_private=true" />
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sekozak&langs_count=7&title_color=fff&icon_color=000&bg_color=60,0b3866,07f49e&hide_border=true&text_color=111&border_radius=5&count_private=true" />
 </a>
