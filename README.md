@@ -5,7 +5,13 @@ I am Second year student of Computer Science at the AGH University of Science an
 ## Languages and technologies I worked with 🔥
 
 <p align="left"> 
-   <a href="https://angular.io/" title="Angular"> 
+   <a href="www.java.com" title="Java">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
+  </a> 
+  <a href="https://pl.python.org/" title="Python"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" width="40" height="40"/>
+  </a> 
+  <a href="https://angular.io/" title="Angular"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>
   </a> 
   <a href="https://html.com/" title="Html"> 
@@ -23,12 +29,6 @@ I am Second year student of Computer Science at the AGH University of Science an
   <a href="https://www.firebase.com/" title="Firebase">
     <img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="30px" height="30px">
   </a>
-  <a href="www.java.com" title="Java">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
-  </a> 
-  <a href="https://pl.python.org/" title="Python"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" width="40" height="40"/>
-  </a> 
   <a href="https://www.scala-lang.org/" title="Scala"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" width="40" height="40"/>
   </a>
