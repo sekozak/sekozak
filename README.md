@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Sebastian Kozak
-I am Second year student of Computer Science at the AGH University of Science and Technology.
+I am Third year student of Computer Science at the AGH University of Science and Technology.
 
 
 ## Languages and technologies I worked with 🔥
